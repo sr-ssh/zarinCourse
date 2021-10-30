@@ -1,0 +1,6 @@
+{
+    "appPort": 6000,
+    "mongo": {
+        "host": "mongodb://172.16.2.215/zarin"
+    }
+}

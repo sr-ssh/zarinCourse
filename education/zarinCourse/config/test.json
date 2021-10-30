@@ -1,0 +1,11 @@
+{
+    "appPort": 4000,
+    "mongo": {
+        "host": "mongodb://172.16.2.215/zarin"
+    },
+    "test": {
+        "pay": {
+            "amount": 10000
+        }
+    }
+}
